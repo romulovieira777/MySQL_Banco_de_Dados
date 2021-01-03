@@ -100,7 +100,7 @@ WHERE
   Id_Usuario = 3;
 ~~~
 
-*O que faz a função where:**
+**O que faz a função where:**
 
 Especifica o critério de pesquisa para as linhas retornadas pela consulta.
 
