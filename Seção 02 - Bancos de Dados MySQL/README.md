@@ -102,7 +102,7 @@ INT
 Id_Usuario INT;
 ~~~
 
-**O que faz a função inser into:**
+**O que faz a função insert into:**
 
 Adiciona uma ou mais linhas a uma tabela ou exibição.
 
